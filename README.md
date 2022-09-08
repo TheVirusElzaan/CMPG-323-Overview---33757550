@@ -30,9 +30,12 @@ The .gitignore file is a plain text file that will contain patterns of files/dir
 
 It is important to ensure that credentials and sensitive information be stored properly so as to ensure that no one that is not authorized can access this information.
 To protect this information we can implement a safety precaution such as a username and password that needs to be put in correctly in order for credentials and sensitive information to become available.
+<<<<<<< HEAD
 
 ####### Project 2 - API Development
 
 Update on project 2 
 
 In this project we have created an API to execute certain functions. GET, POST, PATCH and DELETE methods are created. The stakeholdes will only get use of the data as it is an API. The stakeholders can use this data to help them with decision making. \
+=======
+>>>>>>> 8a0bec62fed677b62ebb5f0f0c758a7f9ce3f998
