@@ -16,7 +16,7 @@ Project 5 - Reporting & Monitoring: ‘CMPG 323 Project 5 - 33757550' will be cr
 ### Diagram
 The diagram explaining project and repository context and how they are integrated. The blocks in blue are the feutures or main aspects within the projects and everything underneath a blue block is extra information about what needs to happen in the projects. At the top of the diagram is the Portfolio of Evidence(POE) as it is what I plan on completing with all off these projects that are integrated into one big Portfolio of Evidence.
 
-
+![](Image/DiagramProject.png)
 
 #### Branching Strategy
 
@@ -30,3 +30,9 @@ The .gitignore file is a plain text file that will contain patterns of files/dir
 
 It is important to ensure that credentials and sensitive information be stored properly so as to ensure that no one that is not authorized can access this information.
 To protect this information we can implement a safety precaution such as a username and password that needs to be put in correctly in order for credentials and sensitive information to become available.
+
+####### Project 2 - API Development
+
+Update on project 2 
+
+In this project we have created an API to execute certain functions. GET, POST, PATCH and DELETE methods are created. The stakeholdes will only get use of the data as it is an API. The stakeholders can use this data to help them with decision making. \
