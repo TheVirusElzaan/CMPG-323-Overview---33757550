@@ -39,3 +39,24 @@ Update on project 2
 In this project we have created an API to execute certain functions. GET, POST, PATCH and DELETE methods are created. The stakeholdes will only get use of the data as it is an API. The stakeholders can use this data to help them with decision making. \
 =======
 >>>>>>> 8a0bec62fed677b62ebb5f0f0c758a7f9ce3f998
+
+######## Project 3 - Standards and Patterns
+
+This project 3 was the implementation of standards and patterns as I needed to change coding to implement certain functions within an existing Web API Application. Certain coding standards need to be upheld and the coding needs to be easy to understand. CREATE, VIEW, EDIT and DELETE are functions that needed to be made functional and working.
+
+Stakeholders are to use the report developed to understand what can be done with the web API Application and how it functions. Users would use the app to firstly register new people and once you have registered everytime you go back to the Web Application you can just log in. The Web API can be used by these users to CREATE, VIEW, EDIT and DELETE the categories, devices and zones. The user can also go back to the home page and the user can logout at any time.
+
+######### Project 4 - Testing and PRA's
+
+This project is used for the testing and use of PRA's. The stakeholders will be able to test the project. This project automatically fills in the login details, then the project will create, view, edit and delete the Zones, Categories and the Devices.
+
+This project might struggle to run the first time it is run but the second time it works perfectly.
+
+The user would use the report to test the functionality of the Web Application.
+
+########## Project 5 - Reporting and Monitoring with Power BI
+
+We are reporting and monitoring with Power BI. This will be used for stakeholders or users to have a clear understanding of the data source. With this project users will be able to understand the data better as it is portrayed in visualizations that highlight certain aspects of the data. There are four pages: filter page, high-level metrics, device monitoring and device registration. The filter page will help users to view the data with certain filters applied of their choosing to efficiently observe data they wish to see. The other pages contain visualizations of the data that can be filtered and the data without any filters that visualize certain aspects of the data.
+
+Credentials
+I was unable to connect the data source live from the web sharepoint. Therefore I believe that there are no credentials. The information in the class recording informed be that the live connection is for bonus marks, sincerely hope it is not a problem.
